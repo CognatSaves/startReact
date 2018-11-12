@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d04b9653-daa7-49dd-9fe8-6e87aa4c035c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d04b9653-daa7-49dd-9fe8-6e87aa4c035c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -244,7 +242,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Task2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="D:/NodeJS/node" />
     <property name="js.eslint.eslintPackage" value="D:\Git file\react\react_app\node_modules\eslint" />
@@ -343,12 +341,12 @@
       <workItem from="1537028677236" duration="9571000" />
       <workItem from="1537105787354" duration="4503000" />
       <workItem from="1537856631650" duration="336000" />
-      <workItem from="1542013763117" duration="172000" />
+      <workItem from="1542013763117" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56552000" />
+    <option name="totallyTimeSpent" value="57025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
